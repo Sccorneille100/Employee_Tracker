@@ -20,6 +20,9 @@ it is an employee tracker
     
 ## Usage
     this helps us created a easy readme that is fast and very precise also straight to the point
+## screenshots
+![image](https://github.com/Sccorneille100/Employee_Tracker/assets/127679758/67e15699-0e92-4254-b301-d8a627940b3b)
+
 
 ## License
 
